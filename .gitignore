@@ -1,0 +1,11 @@
+# Ignore node_modules in all subfolders
+*/node_modules/
+
+# Optionally, you can also ignore the build or dist directories if you have them:
+*/build/
+*/dist/
+
+# Ignore other common files for React projects
+*.log
+*.env
+.DS_Store
